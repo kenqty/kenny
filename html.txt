@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h2>Hi, I'm</h2> <h1 class="ken">Ken Dave A. Cate</h1>
+        <p>Student &amp; Developer</p>
+    </header>
+    <section id="projects">
+        <h2>About Me</h2>
+      <p>
+        I'm 19 years old and a BSIS Student at Bicol University Polangui.
+      </p>
+        <!-- Add your project details here -->
+    </section>
+    <footer>
+      <p class="once">Created by: Ken Dave A. Cate | Group: ONCE</p>
+        <p>&copy; 2023 All rights reserved</p>
+    </footer>
+</body>
+</html>

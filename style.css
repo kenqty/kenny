@@ -1,0 +1,42 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #0e5c0e;
+    color: #ffffff;
+}
+
+.ken{
+  color: #ffffff;
+}
+
+#projects {
+    padding: 20px;
+  background-color: #ffffff
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1c8a7b;
+    color: #000000;
+}
+
+.once{
+  color: #000000
+}
